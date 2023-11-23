@@ -1,17 +1,16 @@
 
-## Hello World ! I am Gabriel Fiorim Esteves👋
+## Hello World! I'm Gabriel Fiorim Esteves.. Welcome to my profile!👋
 
 ### Public Speaker | Programmer | Friendly 
 
-- 🧐 I am currently freelancing 
+- 🧐 I am currently work as a freelancer 
 - 🌱 I’m currently specializing in Software Engineering.
-- 💬 Ask me about: Codes, Programming Languages, IA, Technology 
-- 📫 How to reach me: [@pasteyourmediahere](https://twitter.com/brunomarcosluz)
+- 💬 Ask me about: Codes, Programming Languages, AI, Technology 
 
 ## 🤝 Follow my work on
 
 <div> 
-  <a href="https://www.youtube.com/channel/UCbOyyAqpyiYiImgaoXAwd9A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UClW-rdsbrmRV9gEC6bGvouQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_leehxd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/leehxd_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto: contato@leehxd.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
