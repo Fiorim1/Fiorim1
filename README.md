@@ -38,13 +38,11 @@
 
 
 <a href="https://github.com/Fiorim1/Project-Pokedex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fiorim1&repo=Projeto-Gerenciador-De-Tarefas
-&title_color=42426F&text_color=42426F&icon_color=42426F&bg_color=000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fiorim1&repo=Projeto-Gerenciador-De-Tarefas&title_color=42426F&text_color=42426F&icon_color=42426F&bg_color=000000"/>
 </a>
 
 <a href="https://github.com/Fiorim1/LinkTree">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fiorim1&repo=LinkTree
-&title_color=42426F&text_color=42426F8&icon_color=42426F&bg_color=000000"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fiorim1&repo=LinkTree&title_color=42426F&text_color=42426F8&icon_color=42426F&bg_color=000000"
 </a>
 
 <a href="https://github.com/Fiorim1/Projeto-Gerenciador-De-Tarefas">
