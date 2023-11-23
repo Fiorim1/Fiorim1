@@ -28,7 +28,7 @@
 <img align="left" alt="Bootstrap" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="VS Code"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" />
+<img align="left" alt="SQL"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 
 
 <br>
@@ -36,12 +36,15 @@
 
 ## 👨‍🎨 Explore some of my repositories, have fun
 
-[comment]: <> (Here i use the vercel api, change the references in the url bellow)
 
-<a href="https://github.com/brunomarcosluz/Jornada-Ninja-Web">
+<a href="https://github.com/Fiorim1/Project-Pokedex">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Jornada-Ninja-Web&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"/>
 </a>
 
-<a href="https://github.com/brunomarcosluz/flutter-master-dev">
+<a href="https://github.com/Fiorim1/LinkTree">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=flutter-master-dev&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"
+</a>
+
+<a href="https://github.com/Fiorim1/Projeto-Gerenciador-De-Tarefas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=flutter-master-dev&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"
 </a>
