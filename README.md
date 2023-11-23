@@ -1,8 +1,3 @@
-![You banner here!](/assets/banner-readme-templates.png) 
-
-[comment]: <> (i create my banner in Canva editor for free.)
-
-> "Some quote do you like" - Author
 
 ## Hello World ! I am Gabriel Fiorim Esteves👋
 
@@ -15,12 +10,10 @@
 
 ## 🤝 Follow my work on
 
-[comment]: <> (Change the 'alt' and link bellow. Follow me neither ;))
 
-[<img align="left" alt="brunomarcosluz | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/bruno.luz.9828)
-[<img align="left" alt="brunomarcosluz | Twitter" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCMqHKG1_So1rEtcMTMJLqjA)
-[<img align="left" alt="brunomarcosluz | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bruno-luz-comunicacao-desenvolvimento-tecnologia/)
-[<img align="left" alt="brunomarcosluz | TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white" />](https://www.tiktok.com/@brunomarcosluz)
+[<img align="left" alt="gabrielfiorimesteves | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-fiorim-esteves-b361a4266/)
+<img src="https://camo.githubusercontent.com/d79c554……68652d6…" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="max-width: 100%;">
+
 <br>
 
 ## 👨‍💻 Languages and Tools
