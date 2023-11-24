@@ -3,7 +3,7 @@
 
 ### Programmer 👽	
 
-- 🧐 I am currently work as a freelancer 
+- 🧐 I'm currently work as a freelancer 
 - 🌱 I’m currently specializing in Software Engineering.
 - 💬 Ask me about: Codes, Programming Languages, AI, Technology 
 
