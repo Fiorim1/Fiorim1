@@ -1,7 +1,7 @@
 
 ## Hello World! I'm Gabriel Fiorim Esteves.. Welcome to my profile!👋
 
-### Public Speaker | Programmer | Friendly 
+### Programmer 👽	
 
 - 🧐 I am currently work as a freelancer 
 - 🌱 I’m currently specializing in Software Engineering.
