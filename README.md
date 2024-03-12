@@ -54,7 +54,7 @@
 </a>
 
 <a href="https://github.com/Fiorim1/Materia-Front-End">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fiorim1&repo=Front-End&title_color=42426F&text_color=42426F&icon_color=42426F&bg_color=000000"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fiorim1&repo=Materia-Front-End&title_color=42426F&text_color=42426F&icon_color=42426F&bg_color=000000"
 </a>
 
 
