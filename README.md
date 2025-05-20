@@ -57,8 +57,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fiorim1&repo=Projeto-Gerenciador-De-Tarefas&title_color=42426F&text_color=42426F&icon_color=42426F&bg_color=000000"
 </a>
 
-<a href="https://github.com/Fiorim1/Resgiter-Login-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fiorim1&repo=Resgiter-Login-System&title_color=42426F&text_color=42426F&icon_color=42426F&bg_color=000000"
+<a href="https://github.com/Fiorim1/Landing-Page-Fundicao">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fiorim1&repo=Landing-Page-Fundicao&title_color=42426F&text_color=42426F&icon_color=42426F&bg_color=000000"
 </a>
 
 
