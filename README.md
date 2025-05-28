@@ -45,21 +45,31 @@
 ## 👨‍🎨 Explore some of my repositories, have fun
 
 
-<a href="https://github.com/Fiorim1/Project-Pokedex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fiorim1&repo=Project-Pokedex&title_color=42426F&text_color=42426F&icon_color=42426F&bg_color=000000"/>
-</a>
-
-<a href="https://github.com/Fiorim1/Linktree">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fiorim1&repo=LinkTree&title_color=42426F&text_color=42426F8&icon_color=42426F&bg_color=000000"
-</a>
-
-<a href="https://github.com/Fiorim1/Projeto-Gerenciador-De-Tarefas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fiorim1&repo=Projeto-Gerenciador-De-Tarefas&title_color=42426F&text_color=42426F&icon_color=42426F&bg_color=000000"
-</a>
-
-<a href="https://github.com/Fiorim1/Landing-Page-Fundicao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fiorim1&repo=Landing-Page-Fundicao&title_color=42426F&text_color=42426F&icon_color=42426F&bg_color=000000"
-</a>
-
+<!-- From Uiverse.io by Itskrish01 --> 
+<button
+  class="relative flex items-center px-6 py-3 overflow-hidden font-medium transition-all bg-indigo-500 rounded-md group"
+>
+  <span
+    class="absolute top-0 right-0 inline-block w-4 h-4 transition-all duration-500 ease-in-out bg-indigo-700 rounded group-hover:-mr-4 group-hover:-mt-4"
+  >
+    <span
+      class="absolute top-0 right-0 w-5 h-5 rotate-45 translate-x-1/2 -translate-y-1/2 bg-white"
+    ></span>
+  </span>
+  <span
+    class="absolute bottom-0 rotate-180 left-0 inline-block w-4 h-4 transition-all duration-500 ease-in-out bg-indigo-700 rounded group-hover:-ml-4 group-hover:-mb-4"
+  >
+    <span
+      class="absolute top-0 right-0 w-5 h-5 rotate-45 translate-x-1/2 -translate-y-1/2 bg-white"
+    ></span>
+  </span>
+  <span
+    class="absolute bottom-0 left-0 w-full h-full transition-all duration-500 ease-in-out delay-200 -translate-x-full bg-indigo-600 rounded-md group-hover:translate-x-0"
+  ></span>
+  <span
+    class="relative w-full text-left text-white transition-colors duration-200 ease-in-out group-hover:text-white"
+    >Get Started</span
+  >
+</button>
 
 
