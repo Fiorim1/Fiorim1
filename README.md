@@ -3,9 +3,9 @@
 
 ### Programmer 👽	
 
-- 🧐 I'm currently work as a freelancer 
-- 🌱 I’m currently specializing in Software Engineering.
-- 💬 Ask me about: Codes, Programming Languages, AI, Technology 
+🧐 I'm currently working as a Digital Systems Analyst and freelancer
+🌱 Specializing in Software Engineering
+💬 Ask me about: Code, Programming Languages, AI, Technology
 
 ## 🤝 Follow me:
 
