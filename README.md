@@ -3,8 +3,8 @@
 
 ### Programmer 👽	
 
-- 🧐 I'm currently working as a Digital Systems Analyst and freelancer <br>
-- 🌱 Specializing in Software Engineering <br>
+- 🧐 I'm currently working as a Integrated Digital Solutions Analyst and freelancer <br>
+- 🌱Specializing in Analysis and Systems Development <br>
 - 💬 Ask me about: Code, Programming Languages, AI, Technology <br>
 
 ## 🤝 Follow me:
@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/_fiorim_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/fiorim" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto: gabrielfiorimestevessocial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-fiorim-esteves-b361a4266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/estevzinn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
