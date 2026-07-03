@@ -2,7 +2,7 @@
 
 ### Programmer 👽	
 
-- 🧐 I'm currently working as a Integrated Digital Solutions Analyst and freelancer <br>
+- 🧐 I am currently working at Synter, where I handle a hybrid role bridging Support/Technical Assistance, Automation/Programming, and AI. <br>
 - 🌱Specializing in Analysis and Systems Development <br>
 - 💬 Ask me about: Code, Programming Languages, AI, Technology <br>
 
