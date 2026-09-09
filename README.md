@@ -1,6 +1,6 @@
 ## Hello World! I'm Gabriel Fiorim Esteves.. Welcome to my profile!👋
 
-- 🧐 I am currently working at Synter, where I handle a hybrid role bridging Support/Technical Assistance, Automation/Programming, and AI. <br>
+- 🧐 I am currently working at @Synter, where I handle a hybrid role bridging Support/Technical Assistance, Automation/Programming, and AI. <br>
 - 🌱Specializing in Analysis and Systems Development <br>
 - 💬 Ask me about: Code, Programming Languages, AI, Technology <br>
 
